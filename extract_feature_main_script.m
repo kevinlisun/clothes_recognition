@@ -1,4 +1,5 @@
 warning off
+parpool
 pctRunOnAll warning('off','all')
 clear all
 close all
